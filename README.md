@@ -22,7 +22,7 @@ Después de una trayectoria en el sector logístico, he transformado mi carrera 
 - Colaborando en proyectos personales y de código abierto
 
 ## 📫 Contacto
-- 💼 [LinkedIn]((https://www.linkedin.com/in/angelsastredev/))  
+- 💼 [LinkedIn](https://www.linkedin.com/in/angelsastredev) 
 - ✉️ angelsastrecarrasco90@gmail.com
 
 ---
