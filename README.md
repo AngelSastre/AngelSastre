@@ -29,4 +29,4 @@ Después de una trayectoria en el sector logístico, he transformado mi carrera 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AngelSastre&show_icons=true&theme=github_dark&rank_icon=github&border_radius=15)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AngelSastre&layout=compact&theme=tokyonight)
+
